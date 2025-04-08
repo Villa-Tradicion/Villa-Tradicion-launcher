@@ -1,6 +1,8 @@
 [submodule "backend-villa-tradicion"]
 	path = backend-villa-tradicion
 	url = https://github.com/Villa-Tradicion/backend-villa-tradicion.git
+	branch = dev
 [submodule "frontend-villa-tradicion"]
 	path = frontend-villa-tradicion
 	url = https://github.com/Villa-Tradicion/frontend-villa-tradicion.git
+	branch = dev
